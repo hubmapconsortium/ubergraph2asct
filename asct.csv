@@ -1,158 +1,170 @@
-AS/1/ID,AS/2/ID,AS/3/ID,AS/4/ID,AS/5/ID,CT/5/ID
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004294,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0004294,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0004294,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004294,,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0004294,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0004294,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1001005
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,http://purl.obolibrary.org/obo/UBERON_0004203,,http://purl.obolibrary.org/obo/CL_1000715
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,http://purl.obolibrary.org/obo/UBERON_0004203,,http://purl.obolibrary.org/obo/CL_1000715
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004203,,,http://purl.obolibrary.org/obo/CL_1000715
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000717
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000717
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000717
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000717
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000717
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0005097,,http://purl.obolibrary.org/obo/CL_0002201
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_0002201
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_0002201
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001107
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0004193,,http://purl.obolibrary.org/obo/CL_1001107
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0001294,http://purl.obolibrary.org/obo/UBERON_0004193,,http://purl.obolibrary.org/obo/CL_1001107
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001106
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001106
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001291,,http://purl.obolibrary.org/obo/CL_1001106
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004134,,,http://purl.obolibrary.org/obo/CL_0002306
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0004134,,http://purl.obolibrary.org/obo/CL_0002306
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001291,,http://purl.obolibrary.org/obo/CL_1001109
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001109
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001109
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0001294,http://purl.obolibrary.org/obo/UBERON_0001228,http://purl.obolibrary.org/obo/UBERON_0009095,http://purl.obolibrary.org/obo/CL_1000597
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0009202,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0009202,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0009202,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001285
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0005272,http://purl.obolibrary.org/obo/UBERON_0012441,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004201,,,http://purl.obolibrary.org/obo/CL_1001108
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001291,,http://purl.obolibrary.org/obo/CL_1001108
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004202,,,http://purl.obolibrary.org/obo/CL_1001108
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001108
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0005271,,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0004205,,,http://purl.obolibrary.org/obo/CL_1000718
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0001294,http://purl.obolibrary.org/obo/UBERON_0004205,,http://purl.obolibrary.org/obo/CL_1000718
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0004205,,,http://purl.obolibrary.org/obo/CL_1000718
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000718
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000718
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1001432
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1001432
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004200,,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0005215,,,,http://purl.obolibrary.org/obo/CL_1000698
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_0000648
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0004196,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0004196,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0005272,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0005272,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001033
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1000452
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_1000452
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0005750,,http://purl.obolibrary.org/obo/CL_1000452
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0005750,,http://purl.obolibrary.org/obo/CL_1000452
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001289,http://purl.obolibrary.org/obo/UBERON_0001290,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004202,http://purl.obolibrary.org/obo/UBERON_0001290,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0001290,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0001290,
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004640,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004640,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004640,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004640,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004640,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004640,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001099
-http://purl.obolibrary.org/obo/UBERON_0002113,,,,,http://purl.obolibrary.org/obo/CL_1001318
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004639,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004639,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004639,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004639,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004639,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0004639,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001096
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0009091,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0009091,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0009091,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0001986,,,,,http://purl.obolibrary.org/obo/CL_1001131
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,,,,http://purl.obolibrary.org/obo/CL_1000768
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0005097,,http://purl.obolibrary.org/obo/CL_1000768
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0005215,,,,http://purl.obolibrary.org/obo/CL_1000692
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_0000653
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004188,,http://purl.obolibrary.org/obo/CL_0000653
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0006544,http://purl.obolibrary.org/obo/UBERON_0002320,,,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0002319,http://purl.obolibrary.org/obo/UBERON_0002320,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0002319,http://purl.obolibrary.org/obo/UBERON_0002320,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0005215,http://purl.obolibrary.org/obo/UBERON_0002319,http://purl.obolibrary.org/obo/UBERON_0002320,,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0002320,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001229,http://purl.obolibrary.org/obo/UBERON_0004190,http://purl.obolibrary.org/obo/UBERON_0002320,http://purl.obolibrary.org/obo/CL_1000742
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001284,,,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,,,,http://purl.obolibrary.org/obo/CL_1001111
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001289,http://purl.obolibrary.org/obo/UBERON_0005096,http://purl.obolibrary.org/obo/CL_1001111
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,http://purl.obolibrary.org/obo/UBERON_0004203,,http://purl.obolibrary.org/obo/CL_1000714
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,http://purl.obolibrary.org/obo/UBERON_0004203,,http://purl.obolibrary.org/obo/CL_1000714
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004203,,,http://purl.obolibrary.org/obo/CL_1000714
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0001292,,,http://purl.obolibrary.org/obo/CL_1000849
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0001292,,http://purl.obolibrary.org/obo/CL_1000849
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000454
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000454
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0004197,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0004134,http://purl.obolibrary.org/obo/UBERON_0004197,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0002335,,,http://purl.obolibrary.org/obo/CL_1000850
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001231,http://purl.obolibrary.org/obo/UBERON_0002335,,http://purl.obolibrary.org/obo/CL_1000850
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1001431
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1001431
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001225,http://purl.obolibrary.org/obo/UBERON_0009883,,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0005215,,,,http://purl.obolibrary.org/obo/CL_1000691
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0002189,,,,
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000716
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0001232,,,http://purl.obolibrary.org/obo/CL_1000716
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0000362,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000716
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0001285,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000716
-http://purl.obolibrary.org/obo/UBERON_0002113,http://purl.obolibrary.org/obo/UBERON_0004100,http://purl.obolibrary.org/obo/UBERON_0004204,,,http://purl.obolibrary.org/obo/CL_1000716
+AS/1,AS/1/LABEL,AS/1/ID,AS/2,AS/2/LABEL,AS/2/ID,AS/3,AS/3/LABEL,AS/3/ID,AS/4,AS/4/LABEL,AS/4/ID,AS/5,AS/5/LABEL,AS/5/ID,CT/1,CT/1/LABEL,CT/1/ID
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal efferent arteriole,,UBERON:0004640,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal efferent arteriole,,UBERON:0004640,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,renal efferent arteriole,,UBERON:0004640,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+endothelium,,UBERON:0001986,,,,,,,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal efferent arteriole,,UBERON:0004640,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal efferent arteriole,,UBERON:0004640,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,renal efferent arteriole,,UBERON:0004640,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+endothelium,,UBERON:0001986,,,,,,,,,,,,,kidney efferent arteriole endothelial cell,,CL:1001099
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,,,,,,,,,,renal beta-intercalated cell,,CL:0002201
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,,,,,,,epithelial cell of proximal tubule segment 1,,CL:4030009
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,,,,epithelial cell of proximal tubule segment 1,,CL:4030009
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct principal cell,,CL:1000716
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct principal cell,,CL:1000716
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct principal cell,,CL:1000716
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney outer medulla collecting duct principal cell,,CL:1000716
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney outer medulla collecting duct principal cell,,CL:1000716
+kidney,,UBERON:0002113,kidney interstitium,,UBERON:0005215,,,,,,,,,,renal interstitial pericyte,,CL:1001318
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,peritubular capillary,,UBERON:0005272,endothelium of peritubular capillary,,UBERON:0012441,,,,,,
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct epithelial cell,,CL:1000454
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct epithelial cell,,CL:1000454
+kidney,,UBERON:0002113,kidney interstitium,,UBERON:0005215,mesangium,,UBERON:0002319,glomerular mesangium,,UBERON:0002320,,,,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,mesangium,,UBERON:0002319,glomerular mesangium,,UBERON:0002320,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,mesangium,,UBERON:0002319,glomerular mesangium,,UBERON:0002320,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,glomerular mesangium,,UBERON:0002320,,,,,,,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular mesangium,,UBERON:0002320,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular mesangium,,UBERON:0002320,glomerular mesangial cell,,CL:1000742
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle thin descending limb epithelial cell,,CL:1001111
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,descending limb of loop of Henle,,UBERON:0001289,descending thin limb,,UBERON:0005096,kidney loop of Henle thin descending limb epithelial cell,,CL:1001111
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,,,,,,,epithelial cell of proximal tubule segment 3,,CL:4030011
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,,,,epithelial cell of proximal tubule segment 3,,CL:4030011
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+vasa recta ascending limb,,UBERON:0009091,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+vasa recta ascending limb,,UBERON:0009091,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+vasa recta ascending limb,,UBERON:0009091,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta ascending limb cell,,CL:1001131
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+endothelium,,UBERON:0001986,,,,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,peritubular capillary,,UBERON:0005272,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+endothelium,,UBERON:0001986,,,,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,peritubular capillary,,UBERON:0005272,,,,,,,peritubular capillary endothelial cell,,CL:1001033
+vasa recta descending limb,,UBERON:0009202,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+vasa recta descending limb,,UBERON:0009202,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+vasa recta descending limb,,UBERON:0009202,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+endothelium,,UBERON:0001986,,,,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,vasa recta descending limb cell,,CL:1001285
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,macula densa,,UBERON:0002335,,,,macula densa epithelial cell,,CL:1000850
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,macula densa,,UBERON:0002335,,,,,,,macula densa epithelial cell,,CL:1000850
+kidney,,UBERON:0002113,outer cortex of kidney,,UBERON:0002189,,,,,,,,,,,,
+endothelium,,UBERON:0001986,,,,,,,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,glomerular capillary endothelium,,UBERON:0004294,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular capillary endothelium,,UBERON:0004294,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular capillary endothelium,,UBERON:0004294,glomerular capillary endothelial cell,,CL:1001005
+endothelium,,UBERON:0001986,,,,,,,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,glomerular capillary endothelium,,UBERON:0004294,,,,,,,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular capillary endothelium,,UBERON:0004294,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal glomerulus vasculature,,UBERON:0004190,glomerular capillary endothelium,,UBERON:0004294,glomerular capillary endothelial cell,,CL:1001005
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal afferent arteriole,,UBERON:0004639,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal afferent arteriole,,UBERON:0004639,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,renal afferent arteriole,,UBERON:0004639,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+endothelium,,UBERON:0001986,,,,,,,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,renal afferent arteriole,,UBERON:0004639,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,renal afferent arteriole,,UBERON:0004639,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,kidney vasculature,,UBERON:0006544,renal afferent arteriole,,UBERON:0004639,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+endothelium,,UBERON:0001986,,,,,,,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney afferent arteriole endothelial cell,,CL:1001096
+kidney,,UBERON:0002113,kidney interstitium,,UBERON:0005215,,,,,,,,,,kidney interstitial fibroblast,,CL:1000692
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,medullary ray,,UBERON:0009883,,,,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,loop of Henle ascending limb thin segment,,UBERON:0004193,,,,kidney loop of Henle thin ascending limb epithelial cell,,CL:1001107
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,inner medulla of kidney,,UBERON:0001294,loop of Henle ascending limb thin segment,,UBERON:0004193,,,,kidney loop of Henle thin ascending limb epithelial cell,,CL:1001107
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney loop of Henle thin ascending limb epithelial cell,,CL:1001107
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,proximal straight tubule,,UBERON:0001290,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,proximal straight tubule,,UBERON:0001290,,,
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,kidney outer medulla outer stripe,,UBERON:0004202,proximal straight tubule,,UBERON:0001290,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,descending limb of loop of Henle,,UBERON:0001289,proximal straight tubule,,UBERON:0001290,,,
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle cortical thick ascending limb epithelial cell,,CL:1001109
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,thick ascending limb of loop of Henle,,UBERON:0001291,,,,kidney loop of Henle cortical thick ascending limb epithelial cell,,CL:1001109
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney loop of Henle cortical thick ascending limb epithelial cell,,CL:1001109
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,inner medulla of kidney,,UBERON:0001294,inner medullary collecting duct,,UBERON:0004205,,,,kidney inner medulla collecting duct principal cell,,CL:1000718
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,inner medullary collecting duct,,UBERON:0004205,,,,,,,kidney inner medulla collecting duct principal cell,,CL:1000718
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,inner medullary collecting duct,,UBERON:0004205,,,,,,,kidney inner medulla collecting duct principal cell,,CL:1000718
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney inner medulla collecting duct principal cell,,CL:1000718
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney inner medulla collecting duct principal cell,,CL:1000718
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,descending limb of loop of Henle,,UBERON:0001289,descending thin limb,,UBERON:0005096,kidney loop of Henle long descending thin limb outer medulla epithelial cell,,CL:4030013
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle long descending thin limb outer medulla epithelial cell,,CL:4030013
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct intercalated cell,,CL:1001432
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct intercalated cell,,CL:1001432
+kidney,,UBERON:0002113,kidney interstitium,,UBERON:0005215,,,,,,,,,,kidney interstitial myofibroblast,,CL:1000691
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct principal cell,,CL:1001431
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct principal cell,,CL:1001431
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,proximal convoluted tubule segment 2,,UBERON:0004197,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,proximal convoluted tubule segment 2,,UBERON:0004197,,,
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,cortical collecting duct,,UBERON:0004203,,,,kidney cortex collecting duct intercalated cell,,CL:1000715
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,cortical collecting duct,,UBERON:0004203,,,,kidney cortex collecting duct intercalated cell,,CL:1000715
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,cortical collecting duct,,UBERON:0004203,,,,,,,kidney cortex collecting duct intercalated cell,,CL:1000715
+kidney,,UBERON:0002113,renal column,,UBERON:0001284,,,,,,,,,,,,
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney loop of Henle medullary thick ascending limb epithelial cell,,CL:1001108
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,kidney outer medulla outer stripe,,UBERON:0004202,,,,,,,kidney loop of Henle medullary thick ascending limb epithelial cell,,CL:1001108
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,kidney outer medulla inner stripe,,UBERON:0004201,,,,,,,kidney loop of Henle medullary thick ascending limb epithelial cell,,CL:1001108
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,thick ascending limb of loop of Henle,,UBERON:0001291,,,,kidney loop of Henle medullary thick ascending limb epithelial cell,,CL:1001108
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,,,,,,,epithelial cell of proximal tubule segment 2,,CL:4030010
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,,,,epithelial cell of proximal tubule segment 2,,CL:4030010
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,juxtamedullary cortex,,UBERON:0005271,,,,,,,,,
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct alpha-intercalated cell,,CL:4030015
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney collecting duct alpha-intercalated cell,,CL:4030015
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,inner medulla of kidney,,UBERON:0001294,renal papilla,,UBERON:0001228,tip of renal papilla,,UBERON:0009095,papillary tips cell,,CL:1000597
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,glomerular parietal epithelium,,UBERON:0005750,,,,parietal epithelial cell,,CL:1000452
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,glomerular parietal epithelium,,UBERON:0005750,,,,parietal epithelial cell,,CL:1000452
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,parietal epithelial cell,,CL:1000452
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,parietal epithelial cell,,CL:1000452
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney loop of Henle thick ascending limb epithelial cell,,CL:1001106
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle thick ascending limb epithelial cell,,CL:1001106
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,thick ascending limb of loop of Henle,,UBERON:0001291,,,,kidney loop of Henle thick ascending limb epithelial cell,,CL:1001106
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney outer medulla collecting duct intercalated cell,,CL:1000717
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,,,,,,,kidney outer medulla collecting duct intercalated cell,,CL:1000717
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct intercalated cell,,CL:1000717
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct intercalated cell,,CL:1000717
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,outer medullary collecting duct,,UBERON:0004204,,,,,,,kidney outer medulla collecting duct intercalated cell,,CL:1000717
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,podocyte,,CL:0000653
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,renal corpuscle,,UBERON:0001229,glomerular epithelium,,UBERON:0004188,,,,podocyte,,CL:0000653
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,distal convoluted tubule,,UBERON:0001292,,,,,,,kidney distal convoluted tubule epithelial cell,,CL:1000849
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,distal convoluted tubule,,UBERON:0001292,,,,kidney distal convoluted tubule epithelial cell,,CL:1000849
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,,,,,,,epithelial cell of proximal tubule,,CL:0002306
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,,,,epithelial cell of proximal tubule,,CL:0002306
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,kidney pyramid,,UBERON:0004200,,,,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,descending limb of loop of Henle,,UBERON:0001289,descending thin limb,,UBERON:0005096,kidney loop of Henle long descending thin limb inner medulla epithelial cell,,CL:4030014
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle long descending thin limb inner medulla epithelial cell,,CL:4030014
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney granular cell,,CL:0000648
+kidney,,UBERON:0002113,kidney interstitium,,UBERON:0005215,,,,,,,,,,kidney resident macrophage,,CL:1000698
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,proximal tubule,,UBERON:0004134,proximal convoluted tubule segment 1,,UBERON:0004196,,,,,,
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,proximal tubule,,UBERON:0004134,proximal convoluted tubule segment 1,,UBERON:0004196,,,
+kidney,,UBERON:0002113,renal collecting system,,UBERON:0004100,collecting duct of renal tubule,,UBERON:0001232,cortical collecting duct,,UBERON:0004203,,,,kidney cortex collecting duct principal cell,,CL:1000714
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,collecting duct of renal tubule,,UBERON:0001232,cortical collecting duct,,UBERON:0004203,,,,kidney cortex collecting duct principal cell,,CL:1000714
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,cortical collecting duct,,UBERON:0004203,,,,,,,kidney cortex collecting duct principal cell,,CL:1000714
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,renal connecting tubule,,UBERON:0005097,,,,kidney connecting tubule epithelial cell,,CL:1000768
+kidney,,UBERON:0002113,cortex of kidney,,UBERON:0001225,,,,,,,,,,kidney connecting tubule epithelial cell,,CL:1000768
+kidney,,UBERON:0002113,nephron,,UBERON:0001285,nephron tubule,,UBERON:0001231,descending limb of loop of Henle,,UBERON:0001289,descending thin limb,,UBERON:0005096,kidney loop of Henle short descending thin limb epithelial cell,,CL:4030012
+kidney,,UBERON:0002113,renal medulla,,UBERON:0000362,,,,,,,,,,kidney loop of Henle short descending thin limb epithelial cell,,CL:4030012
