@@ -39,34 +39,52 @@ def transform_paths(all_paths):
 
 def find_longest_path(all_paths):
   max_len = 0
+  max_path = None
+  as_terms = []
+  ct_terms = []
   for path in all_paths:
     if len(path) > max_len:
       max_len = len(path)
+      max_path = path
 
-  return max_len
+  for e in max_path:
+    if 'UBERON' in e:
+      as_terms.append(e)
+    else:
+      ct_terms.append(e)
+  return len(as_terms), len(ct_terms)
 
-def generate_columns(nb_terms):
+def generate_columns(nb_as_terms, nb_ct_terms):
   header = []
-  for i in range(1, nb_terms):
-    header.append("AS/"+str(i))
-    header.append("AS/"+str(i)+"/LABEL")
-    header.append("AS/"+str(i)+"/ID")
+  for i in range(1, nb_as_terms+1):
+    header.append(f'AS/{str(i)}')
+    header.append(f'AS/{str(i)}/LABEL')
+    header.append(f'AS/{str(i)}/ID')
 
-  header.append("CT/1")
-  header.append("CT/1/LABEL")
-  header.append("CT/1/ID")
+  for i in range(1, nb_ct_terms+1):
+    header.append(f'CT/{str(i)}')
+    header.append(f'CT/{str(i)}/LABEL')
+    header.append(f'CT/{str(i)}/ID')
 
   return header
 
-def expand_list(list, size):
-  i = len(list) - 1
+def _expand_list(list, size):
   while len(list) < size:
-    if any('http://purl.obolibrary.org/obo/CL_' in term for term in list):
-      list.insert(i, "")
-      i += 1
-    else:
-      list.append("")
+    list.append("")
   return list
+
+def expand_list(list, as_size, ct_size):
+  as_terms = []
+  ct_terms = []
+  
+  for e in list:
+    if 'UBERON' in e:
+      as_terms.append(e)
+    else:
+      ct_terms.append(e)
+
+  return _expand_list(as_terms, as_size)+_expand_list(ct_terms, ct_size)
+  
 
 def search_label(term, labels):
   for k,v in labels:
@@ -78,7 +96,7 @@ def add_labels(list, labels):
   for t in list:
     if t != "":
       l.append(search_label(t, labels))
-      l.append("")
+      l.append(search_label(t, labels))
       l.append(to_curie(t))
     else:
       l.append("")
@@ -87,11 +105,11 @@ def add_labels(list, labels):
   return l
   
 def write_csv(output, data, labels):
-  nb_terms = find_longest_path(data)
-  header = generate_columns(nb_terms)
+  nb_as_terms, nb_ct_terms = find_longest_path(data)
+  header = generate_columns(nb_as_terms, nb_ct_terms)
 
   for i, path in enumerate(data):
-    data[i] = add_labels(expand_list(path, nb_terms), labels)
+    data[i] = add_labels(expand_list(path, nb_as_terms, nb_ct_terms), labels)
     
   with open(output, 'w', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)
