@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "ubergraph2asct"
+version = "0.1.0"
+description = "Generates ASCT table from Ubergraph"
+authors = ["Anita Caron <anitacaron@users.noreply.github.com>"]
+license = "http://www.apache.org/licenses/LICENSE-2.0"
+readme = "README.md"
+repository = "https://github.com/hubmapconsortium/ubergraph2asct"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+rdflib = "^7.0.0"
+networkx = "^3.2.1"
+curies = "^0.7.4"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+pytest = "^7.4.3"
+flake8 = "^6.1.0"
+isort = "^5.12.0"
+flake8-black = "^0.3.6"
+pytest-black = "^0.3.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
