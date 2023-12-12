@@ -2,7 +2,6 @@
 Script to transform list of axioms from Ubergraph into ASCT table
 """
 
-import argparse
 import csv
 from pathlib import Path
 
@@ -18,7 +17,7 @@ def get_all_paths(file):
 
     net = rdflib_to_networkx_digraph(result)
 
-    net_labels = nx.Graph([(u, v) for u, v in net.edges() if isinstance(v) is Literal])
+    net_labels = nx.Graph([(u, v) for u, v in net.edges() if isinstance(v, Literal)])
     net.remove_edges_from(net_labels.edges)
 
     roots = [term for term, degree in net.out_degree() if degree == 0]
@@ -130,16 +129,7 @@ def write_csv(output, data, labels):
         writer.writerows(data)
 
 
-def main(input_file: Path, output_file: Path):
+def transform(input_file: Path, output_file: Path):
     paths, labels = get_all_paths(input_file)
     data = transform_paths(paths)
     write_csv(output_file, data, labels)
-
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("input", help="input triple file")
-    parser.add_argument("output", help="output csv file")
-
-    args = parser.parse_args()
-    main(args.input, args.output)

@@ -5,6 +5,7 @@ description = "Generates ASCT table from Ubergraph"
 authors = ["Anita Caron <anitacaron@users.noreply.github.com>"]
 license = "http://www.apache.org/licenses/LICENSE-2.0"
 readme = "README.md"
+packages = [{include = "ubergraph2asct", from="src"}]
 repository = "https://github.com/hubmapconsortium/ubergraph2asct"
 
 [tool.poetry.dependencies]
@@ -24,3 +25,6 @@ pytest-black = "^0.3.12"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+ubergraph2asct = "ubergraph2asct.__main__:main"
