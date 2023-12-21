@@ -7,8 +7,9 @@ from pathlib import Path
 
 import curies
 import networkx as nx
-from rdflib import Graph, Literal
+from rdflib import Graph
 from rdflib.extras.external_graph_libs import rdflib_to_networkx_digraph
+from rdflib.term import Literal
 
 
 def get_all_paths(file):
@@ -18,19 +19,26 @@ def get_all_paths(file):
     net = rdflib_to_networkx_digraph(result)
 
     net_labels = nx.Graph([(u, v) for u, v in net.edges() if isinstance(v, Literal)])
-    net.remove_edges_from(net_labels.edges)
 
-    roots = [term for term, degree in net.out_degree() if degree == 0]
-    leaves = [term for term, degree in net.in_degree() if degree == 0]
+    roots = [term for term, degree in net.out_degree() if degree == 1]
+    leaves = [
+        term
+        for term, degree in net.in_degree()
+        if degree == 0 and not isinstance(term, Literal)
+    ]
 
-    all_paths = []
+    as_paths = []
+    ct_paths = []
     for leave in leaves:
         for root in roots:
             if nx.has_path(net, leave, root):
-                paths = nx.all_simple_paths(net, leave, roots)
-                all_paths.extend(paths)
+                paths = nx.all_simple_paths(net, leave, root)
+                if "UBERON" in str(root):
+                    as_paths.extend(paths)
+                else:
+                    ct_paths.extend(paths)
 
-    return all_paths, net_labels.edges()
+    return as_paths, ct_paths, net_labels.edges()
 
 
 def transform_paths(all_paths):
@@ -45,20 +53,37 @@ def transform_paths(all_paths):
 
 def find_longest_path(all_paths):
     max_len = 0
-    max_path = None
-    as_terms = []
-    ct_terms = []
+    max_path = []
+    len_as = []
+    len_ct = []
+    max_len_as = 0
+    max_len_ct = 0
+
+    # Find size of longest path
     for path in all_paths:
         if len(path) > max_len:
             max_len = len(path)
-            max_path = path
 
-    for e in max_path:
-        if "UBERON" in e:
-            as_terms.append(e)
-        else:
-            ct_terms.append(e)
-    return len(as_terms), len(ct_terms)
+    # Get all paths with longest size
+    for path in all_paths:
+        if len(path) == max_len:
+            max_path.append(path)
+
+    # Split AS and CT paths
+    for path in max_path:
+        len_as.append(len([e for e in path if "UBERON" in str(e)]))
+        len_ct.append(len([e for e in path if "CL" in str(e)]))
+
+    # Last check if AS and CT were found in the paths
+    # Get max AS found in paths
+    if len_as:
+        max_len_as = max(len_as)
+
+    # Get max CT found in paths
+    if len_ct:
+        max_len_ct = max(len_ct)
+
+    return max_len_as, max_len_ct
 
 
 def generate_columns(nb_as_terms: int, nb_ct_terms: int):
@@ -116,10 +141,8 @@ def add_labels(entry: list, labels: list):
     return row
 
 
-def write_csv(output, data, labels):
-    nb_as_terms, nb_ct_terms = find_longest_path(data)
+def write_csv(output, data, labels, nb_as_terms, nb_ct_terms):
     header = generate_columns(nb_as_terms, nb_ct_terms)
-
     for i, path in enumerate(data):
         data[i] = add_labels(expand_list(path, nb_as_terms, nb_ct_terms), labels)
 
@@ -130,6 +153,11 @@ def write_csv(output, data, labels):
 
 
 def transform(input_file: Path, output_file: Path):
-    paths, labels = get_all_paths(input_file)
-    data = transform_paths(paths)
-    write_csv(output_file, data, labels)
+    as_paths, ct_paths, labels = get_all_paths(input_file)
+    as_path_nb_as_terms, as_path_nb_ct_terms = find_longest_path(as_paths)
+    _, ct_path_nb_ct_terms = find_longest_path(ct_paths)
+    nb_as_terms = as_path_nb_as_terms
+    nb_ct_terms = max(as_path_nb_ct_terms, ct_path_nb_ct_terms)
+    data = transform_paths(as_paths) + transform_paths(ct_paths)
+
+    write_csv(output_file, data, labels, nb_as_terms, nb_ct_terms)
