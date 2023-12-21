@@ -3,22 +3,15 @@ import pathlib
 
 from .ubergraph2asct import transform
 
+
 def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument(
-        "-i",
-        "--input",
-        type=pathlib.Path,
-        required=True,
-        help="NT file with axioms"
+        "-i", "--input", type=pathlib.Path, required=True, help="NT file with axioms"
     )
     parser.add_argument(
-        "-o",
-        "--output",
-        type=pathlib.Path,
-        required=True,
-        help="path to CSV file"
+        "-o", "--output", type=pathlib.Path, required=True, help="path to CSV file"
     )
 
     args = parser.parse_args()
