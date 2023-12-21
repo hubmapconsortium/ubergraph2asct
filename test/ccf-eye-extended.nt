@@ -36,7 +36,6 @@
 <http://purl.obolibrary.org/obo/CL_0000129>	<http://www.w3.org/2000/01/rdf-schema#label>	"microglial cell"	.
 <http://purl.obolibrary.org/obo/CL_0000751>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/CL_0000748>	.
 <http://purl.obolibrary.org/obo/CL_0000751>	<http://www.w3.org/2000/01/rdf-schema#label>	"rod bipolar cell"	.
-<http://purl.obolibrary.org/obo/CL_0000540>	<http://www.w3.org/2000/01/rdf-schema#label>	"neuron"@en	.
 <http://purl.obolibrary.org/obo/CL_0000540>	<http://www.w3.org/2000/01/rdf-schema#label>	"neuron"	.
 <http://purl.obolibrary.org/obo/CL_0002585>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/CL_0000066>	.
 <http://purl.obolibrary.org/obo/CL_0002585>	<http://www.w3.org/2000/01/rdf-schema#label>	"retinal blood vessel endothelial cell"	.
@@ -65,7 +64,7 @@
 <http://purl.obolibrary.org/obo/UBERON_0000390>	<http://purl.obolibrary.org/obo/BFO_0000050>	<http://purl.obolibrary.org/obo/UBERON_0000965>	.
 <http://purl.obolibrary.org/obo/UBERON_0001803>	<http://www.w3.org/2000/01/rdf-schema#label>	"epithelium of lens"	.
 <http://purl.obolibrary.org/obo/UBERON_0001803>	<http://purl.obolibrary.org/obo/BFO_0000050>	<http://purl.obolibrary.org/obo/UBERON_0000965>	.
-<http://purl.obolibrary.org/obo/CL_0008034>	<http://www.w3.org/2000/01/rdf-schema#label>	"mural cell"@en	.
+<http://purl.obolibrary.org/obo/CL_0008034>	<http://www.w3.org/2000/01/rdf-schema#label>	"mural cell"	.
 <http://purl.obolibrary.org/obo/UBERON_0002506>	<http://www.w3.org/2000/01/rdf-schema#label>	"iris epithelium"	.
 <http://purl.obolibrary.org/obo/UBERON_0002506>	<http://purl.obolibrary.org/obo/BFO_0000050>	<http://purl.obolibrary.org/obo/UBERON_0001769>	.
 <http://purl.obolibrary.org/obo/UBERON_0002444>	<http://www.w3.org/2000/01/rdf-schema#label>	"lens fiber"	.
@@ -113,5 +112,4 @@
 <http://purl.obolibrary.org/obo/CL_0000745>	<http://purl.obolibrary.org/obo/BFO_0000050>	<http://purl.obolibrary.org/obo/UBERON_0000966>	.
 <http://purl.obolibrary.org/obo/CL_0000132>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/CL_0000066>	.
 <http://purl.obolibrary.org/obo/CL_0000132>	<http://www.w3.org/2000/01/rdf-schema#label>	"corneal endothelial cell"	.
-<http://purl.obolibrary.org/obo/BFO_0000050>	<http://www.w3.org/2000/01/rdf-schema#label>	"part of"@en	.
 <http://purl.obolibrary.org/obo/BFO_0000050>	<http://www.w3.org/2000/01/rdf-schema#label>	"part of"	.
