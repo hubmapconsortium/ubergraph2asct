@@ -8,7 +8,10 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument(
-        "-i", "--input", type=pathlib.Path, required=True, help="NT file with axioms"
+        "-i", "--input", type=pathlib.Path, required=True, help="list of terms"
+    )
+    parser.add_argument(
+        "-p", "--property", type=pathlib.Path, required=True, help="list of properties"
     )
     parser.add_argument(
         "-o", "--output", type=pathlib.Path, required=True, help="path to CSV file"
@@ -16,7 +19,7 @@ def main():
 
     args = parser.parse_args()
 
-    transform(args.input, args.output)
+    transform(args.input, args.property, args.output)
 
 
 if __name__ == "__main__":
