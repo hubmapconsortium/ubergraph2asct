@@ -7,16 +7,13 @@ from pathlib import Path
 
 import curies
 import networkx as nx
-from rdflib import Graph
 from rdflib.extras.external_graph_libs import rdflib_to_networkx_digraph
 from rdflib.term import Literal
+from .query import get_graph
 
 
-def get_all_paths(file):
-    g = Graph()
-    result = g.parse(file, format="nt")
-
-    net = rdflib_to_networkx_digraph(result)
+def get_all_paths(graph):
+    net = rdflib_to_networkx_digraph(graph)
 
     net_labels = nx.Graph([(u, v) for u, v in net.edges() if isinstance(v, Literal)])
 
@@ -152,8 +149,9 @@ def write_csv(output, data, labels, nb_as_terms, nb_ct_terms):
         writer.writerows(data)
 
 
-def transform(input_file: Path, output_file: Path):
-    as_paths, ct_paths, labels = get_all_paths(input_file)
+def transform(seed_file: Path, property_file: Path, output_file: Path):
+    input_graph = get_graph(seed_file, property_file)
+    as_paths, ct_paths, labels = get_all_paths(input_graph)
     as_path_nb_as_terms, as_path_nb_ct_terms = find_longest_path(as_paths)
     _, ct_path_nb_ct_terms = find_longest_path(ct_paths)
     nb_as_terms = as_path_nb_as_terms
