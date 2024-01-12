@@ -14,7 +14,7 @@ from .query import get_graph
 
 def get_all_paths(graph):
     net = rdflib_to_networkx_digraph(graph)
-
+    net = nx.transitive_reduction(net)
     net_labels = nx.Graph([(u, v) for u, v in net.edges() if isinstance(v, Literal)])
 
     roots = [term for term, degree in net.out_degree() if degree == 1]

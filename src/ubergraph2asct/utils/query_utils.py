@@ -16,6 +16,7 @@ QUERY = """
         {property}
     }}
     ?subject ?property ?object .
+    FILTER(?subject != ?object)
     # LIMIT
 """
 
