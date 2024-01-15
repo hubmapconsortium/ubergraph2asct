@@ -13,6 +13,7 @@ python = "^3.10"
 rdflib = "^7.0.0"
 networkx = "^3.2.1"
 curies = "^0.7.4"
+oaklib = "^0.5.25"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.11.0"
