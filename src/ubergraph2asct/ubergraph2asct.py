@@ -48,39 +48,19 @@ def transform_paths(all_paths):
     return all_paths_str
 
 
-def find_longest_path(all_paths):
+def find_longest_path(paths, term_type):
     max_len = 0
-    max_path = []
-    len_as = []
-    len_ct = []
-    max_len_as = 0
-    max_len_ct = 0
+    len_type = []
 
-    # Find size of longest path
-    for path in all_paths:
-        if len(path) > max_len:
-            max_len = len(path)
+    # Get max len depending on term_type for each path
+    for path in paths:
+        len_type.append(len([e for e in path if term_type in str(e)]))
 
-    # Get all paths with longest size
-    for path in all_paths:
-        if len(path) == max_len:
-            max_path.append(path)
+    # Get max found in paths
+    if len_type:
+        max_len = max(len_type)
 
-    # Split AS and CT paths
-    for path in max_path:
-        len_as.append(len([e for e in path if "UBERON" in str(e)]))
-        len_ct.append(len([e for e in path if "CL" in str(e)]))
-
-    # Last check if AS and CT were found in the paths
-    # Get max AS found in paths
-    if len_as:
-        max_len_as = max(len_as)
-
-    # Get max CT found in paths
-    if len_ct:
-        max_len_ct = max(len_ct)
-
-    return max_len_as, max_len_ct
+    return max_len
 
 
 def generate_columns(nb_as_terms: int, nb_ct_terms: int):
@@ -152,10 +132,8 @@ def write_csv(output, data, labels, nb_as_terms, nb_ct_terms):
 def transform(seed_file: Path, property_file: Path, output_file: Path):
     input_graph = get_graph(seed_file, property_file)
     as_paths, ct_paths, labels = get_all_paths(input_graph)
-    as_path_nb_as_terms, as_path_nb_ct_terms = find_longest_path(as_paths)
-    _, ct_path_nb_ct_terms = find_longest_path(ct_paths)
-    nb_as_terms = as_path_nb_as_terms
-    nb_ct_terms = max(as_path_nb_ct_terms, ct_path_nb_ct_terms)
+    nb_as_terms = find_longest_path(as_paths, "UBERON")
+    nb_ct_terms = find_longest_path(ct_paths, "CL")
     data = transform_paths(as_paths) + transform_paths(ct_paths)
 
     write_csv(output_file, data, labels, nb_as_terms, nb_ct_terms)
