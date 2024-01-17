@@ -1,4 +1,4 @@
-AS/1,AS/1/LABEL,AS/1/ID,AS/2,AS/2/LABEL,AS/2/ID,CT/1,CT/1/LABEL,CT/1/ID,CT/2,CT/2/LABEL,CT/2/ID,CT/3,CT/3/LABEL,CT/3/ID,CT/4,CT/4/LABEL,CT/4/ID,CT/5,CT/5/LABEL,CT/5/ID
+AS/1,AS/1/LABEL,AS/1/ID,AS/2,AS/2/LABEL,AS/2/ID,CT/1,CT/1/LABEL,CT/1/ID,CT/2,CT/2/LABEL,CT/2/ID,CT/3,CT/3/LABEL,CT/3/ID,CT/4,CT/4/LABEL,CT/4/ID,CT/5,CT/5/LABEL,CT/5/ID,,,,,,
 eye,eye,UBERON:0000970,lens of camera-type eye,lens of camera-type eye,UBERON:0000965,lens fiber cell,lens fiber cell,CL:0011004,primary lens fiber,primary lens fiber,CL:0002228,,,,,,,,,
 eye,eye,UBERON:0000970,ciliary body,ciliary body,UBERON:0001775,ciliary epithelium,ciliary epithelium,UBERON:0001778,non-pigmented ciliary epithelial cell,non-pigmented ciliary epithelial cell,CL:0002304,,,,,,,,,,,,
 eye,eye,UBERON:0000970,,,,eye photoreceptor cell,eye photoreceptor cell,CL:0000287,retinal cone cell,retinal cone cell,CL:0000573,,,,,,,,,
